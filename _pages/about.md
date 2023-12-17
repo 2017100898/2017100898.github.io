@@ -105,7 +105,7 @@ Dong Gu Kim, **Hye Won Park**, Won Hee Lee
 *Busan, Korea*  
 '멀티모달 뇌 연결성 기반 Graph Transformer Networks와 성별 분류 적용 연구' 논문 발표
 
-* **2023 Medical Image Computing and Computer Assisted Intervention (MICCAI) Poster Session**
+* **2023 Medical Image Computing and Computer Assisted Intervention (MICCAI) Poster Session**  
 *Vancouver, Canada*  
 Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification 논문 발표
 
@@ -141,9 +141,6 @@ Pycaret 기반 모델 블렌딩을 통한 접근  **[PDF](/assets/pdf/LG_Aimers_
 * **데이콘 Basic 전화 해지 여부 분류 AI 경진대회**  
 Feature Engineering과 AutoML을 사용한 접근 **[코드 공유](https://dacon.io/competitions/open/236075/codeshare/7836)**  
 14등 / 582팀 (상위 2.7%) 
-
-* **유방암의 임파선 전이 예측 AI 경진대회**  
-30등 / 446팀 (상위 6.7%)
 
 <br>
 
